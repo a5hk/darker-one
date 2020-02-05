@@ -1,0 +1,27 @@
+{
+    "name": "darker-one",
+    "displayName": "Darker One",
+    "description": "A darker theme based on One Dark Pro",
+    "version": "0.0.1",
+    "publisher": "ashksh",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "homepage": "https://github.com/ashksh/darker-one",
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ashksh/darker-one"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darker One",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darker One-color-theme.json"
+            }
+        ]
+    }
+}
