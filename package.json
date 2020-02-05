@@ -4,6 +4,7 @@
     "description": "A darker theme based on One Dark Pro",
     "version": "0.0.1",
     "publisher": "ashksh",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.41.0"
     },
