@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.2.0]
+- Colors for suggestion widget
+
 ## [0.1.1]
 - Better screenshots
 
