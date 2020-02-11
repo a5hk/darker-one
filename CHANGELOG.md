@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.3.2]
+- More noticeable active indet guide
+
 ## [0.3.1]
 - Darker menu items
 
