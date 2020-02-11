@@ -65,7 +65,7 @@
 		"list.inactiveSelectionForeground": "#d7dae0",
 		"list.warningForeground": "#d19a66",
 		"menu.background": "#000000",
-		"menu.foreground": "#cccccc",
+		"menu.foreground": "#aaaaaa",
 		"minimap.selectionHighlight": "#005500",
 		"panel.border": "#080800",
 		"peekViewEditor.background": "#1b1d23",

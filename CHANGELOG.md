@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.3.1]
+- Darker menu items
+
 ## [0.3.0]
 - Slightly warmer background color
 - Different background for menu and editor widgets
