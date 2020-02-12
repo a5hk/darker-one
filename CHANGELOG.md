@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.3.3]
+- Removed shadows
+
 ## [0.3.2]
 - More noticeable active indet guide
 

@@ -2,9 +2,18 @@
     "name": "darker-one",
     "displayName": "Darker One",
     "description": "A darker theme based on One Dark Pro",
-    "version": "0.3.2",
+    "version": "0.3.3",
     "publisher": "ashksh",
     "icon": "icon.png",
+    "keywords": [
+        "darker one",
+        "darkerone",
+        "dark"
+    ],
+    "galleryBanner": {
+        "color": "080800",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.41.0"
     },
