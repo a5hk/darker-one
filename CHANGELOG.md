@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.3.5]
+- Updated readme
+
 ## [0.3.4]
 - Gray title bar colors
 - Lighter minimap selection color
