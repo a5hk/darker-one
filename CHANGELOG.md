@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.3.6]
+- Status bar colors for debug and no open folder
+
 ## [0.3.5]
 - Updated readme
 

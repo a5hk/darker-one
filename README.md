@@ -4,7 +4,7 @@
 [![ratings](https://vsmarketplacebadge.apphb.com/rating-star/ashksh.darker-one.svg?style=for-the-badge&color=006600&labelColor=080800)](https://marketplace.visualstudio.com/items?itemName=ashksh.darker-one)
 
 # Darker One
-A darker theme based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) for VS Code.
+A darker theme with fewer borders based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) for VS Code.
 
 ## Screenshots
 ![html screenshot](screenshot/hcj.png)

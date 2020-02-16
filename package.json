@@ -2,13 +2,14 @@
     "name": "darker-one",
     "displayName": "Darker One",
     "description": "A darker theme based on One Dark Pro",
-    "version": "0.3.5",
+    "version": "0.3.6",
     "publisher": "ashksh",
     "icon": "icon.png",
     "keywords": [
         "darker one",
         "darkerone",
-        "dark"
+        "dark",
+        "borderless"
     ],
     "galleryBanner": {
         "color": "080800",
