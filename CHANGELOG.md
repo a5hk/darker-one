@@ -1,4 +1,7 @@
-# Change Log
+# Changelog
+
+## [0.3.7]
+- Updated to the latest version of One Dark Pro
 
 ## [0.3.6]
 - Status bar colors for debug and no open folder

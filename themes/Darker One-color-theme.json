@@ -350,6 +350,12 @@
 	},
 	"tokenColors": [
 		{
+			"scope": "punctuation.definition.block.sequence.item.yaml",
+			"settings": {
+				"foreground": "#ABB2BF"
+			}
+		},
+		{
 			"scope": "markup.quote.markdown",
 			"settings": {
 				"foreground": "#5C6370"
