@@ -18,5 +18,9 @@ A darker theme with fewer borders based on [One Dark Pro](https://github.com/Bin
 
 ![bash screenshot](screenshot/sh.png)
 
+
+Modification indicators with `"workbench.editor.highlightModifiedTabs": true`.
+![modified tab indicators](screenshot/modified.png)
+
 ## License
 [MIT License](LICENSE)

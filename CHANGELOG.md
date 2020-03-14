@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.3.8]
+- Modification indicators
+
 ## [0.3.7]
 - Updated to the latest version of One Dark Pro
 

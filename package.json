@@ -2,8 +2,8 @@
     "name": "darker-one",
     "displayName": "Darker One",
     "description": "A darker theme based on One Dark Pro",
-    "version": "0.3.7",
-    "publisher": "ashksh",
+    "version": "0.3.8",
+    "publisher": "a5hk",
     "icon": "icon.png",
     "keywords": [
         "darker one",
@@ -18,13 +18,13 @@
     "engines": {
         "vscode": "^1.41.0"
     },
-    "homepage": "https://github.com/ashksh/darker-one",
+    "homepage": "https://github.com/a5hk/darker-one",
     "categories": [
         "Themes"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/ashksh/darker-one"
+        "url": "https://github.com/a5hk/darker-one"
     },
     "contributes": {
         "themes": [
