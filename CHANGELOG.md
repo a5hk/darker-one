@@ -1,6 +1,9 @@
 # Changelog
 
 ## [0.3.9]
+- Improved selection highlights
+
+## [0.3.9]
 - More readable highlighted lines
 
 ## [0.3.8]
