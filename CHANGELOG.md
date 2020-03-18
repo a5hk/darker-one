@@ -1,5 +1,8 @@
 # Changelog
 
+# [0.3.11]
+- New color for progress bar
+
 ## [0.3.10]
 - Improved selection highlights
 

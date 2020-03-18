@@ -71,6 +71,7 @@
 		"peekViewEditor.background": "#1b1d23",
 		"peekViewEditor.matchHighlightBackground": "#29244b",
 		"peekViewResult.background": "#22262b",
+		"progressBar.background": "#ffd700",
 		"scrollbar.shadow": "#00000000",
 		"scrollbarSlider.activeBackground": "#747d9180",
 		"scrollbarSlider.background": "#4e566660",
