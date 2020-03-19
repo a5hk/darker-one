@@ -1,6 +1,9 @@
 # Changelog
 
-# [0.3.11]
+## [0.4.0]
+- Peek view colors
+
+## [0.3.11]
 - New color for progress bar
 
 ## [0.3.10]
