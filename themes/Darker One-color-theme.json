@@ -50,7 +50,7 @@
 		"editorSuggestWidget.highlightForeground": "#eeeeee",
 		"editorSuggestWidget.selectedBackground": "#555555",
 		"editorWarning.foreground": "#d19a66",
-		"editorWhitespace.foreground": "#3b4048",
+		"editorWhitespace.foreground": "#666666",
 		"editorWidget.background": "#000000",
 		"editorWidget.border": "#080800",
 		"editorWidget.resizeBorder": "#006600",

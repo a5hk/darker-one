@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.4.1]
+- New whitespace color
+
 ## [0.4.0]
 - Peek view colors
 
