@@ -1,38 +1,38 @@
 {
-    "name": "darker-one",
-    "displayName": "Darker One",
-    "description": "A darker theme based on One Dark Pro",
-    "version": "0.4.1",
-    "publisher": "ashksh",
-    "icon": "icon.png",
-    "keywords": [
-        "darker one",
-        "darkerone",
-        "dark",
-        "borderless"
-    ],
-    "galleryBanner": {
-        "color": "080800",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "homepage": "https://github.com/a5hk/darker-one",
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/a5hk/darker-one"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Darker One",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Darker One-color-theme.json"
-            }
-        ]
-    }
+  "name": "darker-one",
+  "displayName": "Darker One",
+  "description": "A darker theme based on One Dark Pro",
+  "version": "0.5.0",
+  "publisher": "ashksh",
+  "icon": "icon.png",
+  "keywords": [
+    "darker one",
+    "darkerone",
+    "dark",
+    "borderless"
+  ],
+  "galleryBanner": {
+    "color": "080800",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "homepage": "https://github.com/a5hk/darker-one",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a5hk/darker-one"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darker One",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darker One-color-theme.json"
+      }
+    ]
+  }
 }
