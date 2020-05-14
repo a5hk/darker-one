@@ -2,7 +2,7 @@
   "name": "darker-one",
   "displayName": "Darker One",
   "description": "A darker theme based on One Dark Pro",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "publisher": "ashksh",
   "icon": "icon.png",
   "keywords": [
@@ -16,7 +16,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.41.0"
+    "vscode": "^1.44.0"
   },
   "homepage": "https://github.com/a5hk/darker-one",
   "categories": [

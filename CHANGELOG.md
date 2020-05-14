@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.5.1]
+
+- Updated to one dark pro 3.6.1
+
 ## [0.5.0]
 
 - Modified tab hover indicators
