@@ -2,6 +2,8 @@
 [![downloads](https://vsmarketplacebadge.apphb.com/downloads/ashksh.darker-one.svg?style=for-the-badge&color=006600&labelColor=080800)](https://marketplace.visualstudio.com/items?itemName=ashksh.darker-one)
 [![ratings](https://vsmarketplacebadge.apphb.com/rating-star/ashksh.darker-one.svg?style=for-the-badge&color=006600&labelColor=080800)](https://marketplace.visualstudio.com/items?itemName=ashksh.darker-one)
 
+**This theme is no longer maintained** [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) now has a black theme built in, named justBlack.
+
 # Darker One
 A darker theme with fewer borders based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) for VS Code.
 
